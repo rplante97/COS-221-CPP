@@ -7,6 +7,10 @@ using namespace std;
 int findSmallestElement(int* arr, int size);
 
 int main(void){
+    //Formatting stuff
+    cout << "Ryan Plante" << endl;
+    cout << "COS 221 Homework 2" << endl;
+    cout << "October 4, 2018" << endl;
     //Define our array and its length
     const int size = 8;
     int array[size] = {1,2,4,5,10,100,2,-22};
